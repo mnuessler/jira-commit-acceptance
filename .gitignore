@@ -1,0 +1,6 @@
+cache.json
+.project
+.pydevproject
+.settings
+*.pyc
+
